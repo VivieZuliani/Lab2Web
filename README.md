@@ -56,7 +56,7 @@ screenshotnya.
 ```
 **OUTPUTNYA :**
 
-
+![Screenshot 2024-03-25 221652](https://github.com/VivieZuliani/Lab2Web/assets/130271255/6b9f814e-4bba-4c5e-b803-2fd501fc0ff0)
 
 #### *Note :*
 
